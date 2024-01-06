@@ -26,10 +26,10 @@ To utilize FriendLinker:
 4. Use the provided UI to navigate through nodes and observe the algorithm's progression.
 
 ## License ##
-This project is licensed under the [Type of License] License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author ##
-The FriendLinker project is authored by [MANAI MORTADHA]. Contact: [mannaimortadha898@gmail.com].
+The FriendLinker project is authored by MANAI MORTADHA. Contact: [mannaimortadha898@gmail.com].
 
 
 ## Contact ##
@@ -37,5 +37,5 @@ For inquiries or feedback, contact [mannaimortadha898@gmail.com].
 
 ## Support ##
 If you find this project helpful and wish to support its development:
-- [Sponsor Link]: You can sponsor this project [[here](https://github.com/sponsors/MortadhaMannai)].
+- Sponsor Link: You can sponsor this project [[here](https://github.com/sponsors/MortadhaMannai)].
 - Buy Me a Coffee: [[Link to Buy Coffee](https://github.com/sponsors/MortadhaMannai/sponsorships?sponsor=MortadhaMannai&tier_id=328439&preview=false)https://github.com/sponsors/MortadhaMannai/sponsorships?sponsor=MortadhaMannai&tier_id=328439&preview=false]: If you'd like, you can also buy me a coffee as a token of appreciation.
